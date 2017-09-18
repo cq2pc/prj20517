@@ -1,0 +1,3 @@
+Name (en) : Yubin Park
+age : 17 (2000 birth)
+other : 2nd grade in Seoul Dightech High School (SDHS) , Want to be Web back-end developer
